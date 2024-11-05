@@ -1,4 +1,4 @@
-#Case Studies
+# Case Studies
 
 **Case Study:** Promoting and Scaling Diversity in Hiring for Data Analyst Roles
 
