@@ -1,6 +1,6 @@
 # Case Studies
 
-**Case Study:** Promoting and Scaling Diversity in Hiring for Data Analyst Roles
+**Case Study:** Promoting and Scaling Diversity in Hiring for Analytics Roles
 
 **Objective:** To recruit the first Senior Data Analyst for the team while improving gender diversity, particularly increasing the representation of women within the engineering team. Additionally, to scale this method across other hiring processes in the organization.
 
