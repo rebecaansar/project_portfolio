@@ -9,9 +9,9 @@ Identified the underrepresentation of women within the engineering team and coll
 Explored diverse recruitment avenues, including women-in-tech networks and industry events, to ensure women candidates were represented in the pipeline.
 Engaged leadership to scale this approach across other teams. When another team was hiring for a data analyst role, participated in the interview panel to ensure accountability from the recruiting team in maintaining a diverse candidate pool.
 Monitored and provided feedback to the recruiting team, resulting in a more evenly distributed ratio of women to male candidates for the analytics role compared to historical data.
-Outcome:
 
-Successfully expanded the candidate funnel, achieving a balanced representation of women candidates for the Senior Data Analyst position.
+**Outcome**
+Successfully expanded the candidate funnel, achieving a more balanced representation of women candidates for the Senior Data Analyst position.
 Scaled the diversity-focused hiring strategy across teams, leading to a significantly improved gender ratio for additional analytics roles, demonstrating the organization's commitment to building a more inclusive workforce.
 ______________________________________________________
 
