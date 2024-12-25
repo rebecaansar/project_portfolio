@@ -33,6 +33,27 @@ Scaled the diversity-focused hiring strategy across teams, leading to a signific
 
 ---------------------------
 
+**Case Study:** Predictive Model for Seamless Driver Payment Authorization
+
+**Problem:** Drivers frequently encountered insufficient payment authorizations, leading to additional charges, a disjointed repayment experience, and financial risk for the company.
+
+**Role:** Developed and deployed an XGBoost regressor model to predict transaction amounts, conducted extensive feature engineering, and ensured seamless integration and customer transition in collaboration with key stakeholders and the engineering team.
+
+**Action:**
+* Conducted extensive feature engineering to identify the strongest predictors of driver purchasing behavior, optimizing the model’s accuracy.
+* Built and fine-tuned an XGBoost regressor model to predict transaction amounts with high precision.
+* Partnered with the engineering team to integrate the model into the payment authorization pipeline, ensuring preauthorization of cards for slightly above predicted amounts.
+* Designed a comprehensive dashboard to monitor the model’s performance and provide actionable insights, supporting the model’s continued success in production for over a year.
+* Collaborated with customer support to ensure a seamless transition for drivers, with minimal disruption to the customer experience.
+
+**Result:**
+* Improved median payment authorization accuracy to within + $50 of actual transaction amounts, a significant shift from a median of - $70, reducing the need for differential charges for the majority of drivers.
+* Increased the sufficiency rate by 130%, ensuring transaction amounts were fully covered far more often.
+* Delivered a stable, scalable solution with positive feedback from drivers and consistent customer support metrics.
+* Achieved long-term operational efficiency through a reliable, high-performing model and dashboard-driven oversight.
+
+---------------------------
+
 **Case Study:** Developing a Customer Retention and Churn Model Using the "Buy ‘Til You Die" Approach
 
 **Objective:** To create the company’s first customer retention and churn model, enabling the marketing team to proactively target at-risk customers with personalized campaigns aimed at improving retention.
