@@ -47,7 +47,7 @@ Scaled the diversity-focused hiring strategy across teams, leading to a signific
 * Collaborated with customer support to ensure a seamless transition for drivers, with minimal disruption to the customer experience.
 
 **Result:**
-* Improved median payment authorization accuracy to within + $50 of actual transaction amounts, a significant shift from a median of - $70, reducing the need for differential charges for the majority of drivers.
+* Improved median payment authorization accuracy to within + $50 of actual transaction amounts, a significant shift from a median of -$70, reducing the need for differential charges for the majority of drivers.
 * Increased the sufficiency rate by 130%, ensuring transaction amounts were fully covered far more often.
 * Delivered a stable, scalable solution with positive feedback from drivers and consistent customer support metrics.
 * Achieved long-term operational efficiency through a reliable, high-performing model and dashboard-driven oversight.
