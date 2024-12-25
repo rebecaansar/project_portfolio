@@ -1,5 +1,22 @@
 # Case Studies
 
+**Case Study:** Sunsetting Tableau and Enhancing Analytics Infrastructure
+
+**Problem:** Our company faced significant analytics tech debt on Tableau, including outdated data connections, unreliable dashboards, and slow-loading reports critical for executive updates, making them prohibitive to use effectively.
+
+**Role:** Led the end-to-end initiative to decommission Tableau and migrate core dashboards to modern and efficient analytics tooling.
+
+**Action:** Designed a 12-month project plan to sunset Tableau and collaborated with stakeholders across operations, sales, marketing, finance, and executive leadership.
+Re-created critical dashboards with stakeholders using existing tools (Metabase) and a new dashboarding solution (Hex).
+Worked with Tableau representatives to reduce the account plan to a minimum, saving $12,000 annually during the transition.
+Prioritized and streamlined dashboard migration, ensuring reliable and fast-loading analytics reports for decision-making.
+
+**Result:** Improved dashboard reliability and performance, reducing load times and enhancing usability for executives and teams.
+Delivered $12,000 in annual cost savings by eliminating unnecessary Tableau subscriptions.
+Enabled faster and more informed decision-making through modernized analytics infrastructure.
+
+---------------------------
+
 **Case Study:** Promoting and Scaling Diversity in Hiring for Analytics Roles
 
 **Objective:** To recruit the first Senior Data Analyst for the team while improving gender diversity, particularly increasing the representation of women within the engineering team. Additionally, to scale this method across other hiring processes in the organization.
