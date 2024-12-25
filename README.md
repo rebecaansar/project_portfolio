@@ -8,7 +8,7 @@
 
 **Action:** Designed a 12-month project plan to sunset Tableau and collaborated with stakeholders across operations, sales, marketing, finance, and executive leadership.
 Re-created critical dashboards with stakeholders using existing tools (Metabase) and a new dashboarding solution (Hex).
-Worked with Tableau representatives to reduce the account plan to a minimum, saving $12,000 annually during the transition.
+Worked with Tableau representatives to reduce the account plan to a minimum, saving thousands during the transition.
 Prioritized and streamlined dashboard migration, ensuring reliable and fast-loading analytics reports for decision-making.
 
 **Result:** Improved dashboard reliability and performance, reducing load times and enhancing usability for executives and teams.
